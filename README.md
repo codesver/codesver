@@ -9,7 +9,6 @@
   
   <h3>💻 Tech Stack 💻</h3>
   <br>
-  
   <h3>Major</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white">
