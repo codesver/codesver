@@ -3,7 +3,7 @@
 
 <div align = "center">
   <br>
-  <h3> Android Engineer Choi Jae Won</h3><br>
+  <h3> Spring Boot Web Developer Choi Jae Won</h3><br>
   Hello, I'm Choi Jae Won<br>
   <br><br>
   
