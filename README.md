@@ -1,6 +1,6 @@
 Hi there! I'm **back-end developer** using Spring & Java.
 
-I like to solve problems and code logics.
+I like to solve problems and develop logics.
 
 I have two final goals in my developer life.
 
