@@ -27,6 +27,3 @@ Second, I want to develop an API such as Java Stream API, JPA or Retrofit2. Wish
 
 ### Learned
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,nodejs)](https://skillicons.dev)
-
-### Next Step
-[![My Skills](https://skillicons.dev/icons?i=linux,mongodb,vue,react,swift,aws,cs)](https://skillicons.dev)
