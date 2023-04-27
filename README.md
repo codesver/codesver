@@ -8,7 +8,7 @@ I have two final goals in my developer life.
 
 First, I want to be a full-stack developer including back-end, front-end and also mobile. Then it will be possible to create own site!
 
-Second, I want to develop an API such as Java Stream API, JPA or Retrofit2 so many developers can develop more easily.
+Second, I want to develop an API such as Java Stream API, JPA or Retrofit2. Wish many developers can develop more easily using my API.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=codesver.github.com%2Fgjbae1212%2Fhit-counter&count_bg=%23414141&title_bg=%234141C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
