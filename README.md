@@ -6,7 +6,7 @@ I like to solve problems and code logics.
 
 I have two final goals in my developer life.
 
-First, I want to be a full-stack developer including back-end, front-end and also mobile.
+First, I want to be a full-stack developer including back-end, front-end and also mobile. Then it will be possible to create own site!
 
 Second, I want to develop an API such as Java Stream API, JPA or Retrofit2 so many developers can develop more easily.
 
