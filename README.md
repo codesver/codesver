@@ -1,5 +1,3 @@
-<a href="https://www.fontspace.com/category/lettering"><img src="https://see.fontimg.com/api/renderfont4/Yz85y/eyJyIjoiZnMiLCJoIjo5NSwidyI6MTEwMCwiZnMiOjg2LCJmZ2MiOiIjMTU4MEYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q29kZXN2ZXIoKTs/charlietta-de-angela.png" alt="Lettering fonts"></a>
-
 ### Hi there! I'm CODESVER
 
 I'm a **back-end developer** using Spring and Java.
