@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Codesver&fontSize=90" />
-
 Hi there! I'm **back-end developer** using Spring & Java.
 
 I like to solve problems and code logics.
