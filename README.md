@@ -1,4 +1,4 @@
-### Hi there! I'm CODESVER
+# Hi there! I'm CODESVER
 
 I'm a **back-end developer** using Spring and Java.
 
@@ -9,6 +9,8 @@ I have two final goals in my developer life.
 First, I want to be a full-stack developer including back-end, front-end and also mobile. Then it will be possible to create own site!
 
 Second, I want to develop an API such as Java Stream API, JPA or Retrofit2. Wish many developers can develop more easily using my API.
+
+# About Me
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodesver&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
