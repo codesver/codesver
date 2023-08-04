@@ -1,14 +1,14 @@
-# Hi there! I'm CODESVER
+# 백엔드 웹 개발자 최재원입니다.
 
-I'm a **back-end developer** using Spring and Java.
+저는 Spring Framework를 사용하는 백엔드 웹 개발자 최재원입니다.
 
-I like to solve problems and develop logics.
+데이터를 가공 및 처리하고 비즈니스 로직을 설계 및 구현하는 것이 재밌어서 백엔드 개발자가 되었습니다.
 
-I have two final goals in my developer life.
+개발자로서 2가지 목표를 가지고 있습니다.
 
-First, I want to be a full-stack developer including back-end, front-end and also mobile. Then it will be possible to create own site!
+첫 번째 목표는 풀스택 개발자가 되는 것입니다. Front-End, Back-End, Mobile 분야에 대한 개발 지식을 쌓아서 전체 프로젝트를 볼 수 있는 능력을 키울 것입니다.
 
-Second, I want to develop an API such as Java Stream API, JPA or Retrofit2. Wish many developers can develop more easily using my API.
+두 번째 목표는 Default API를 개발하는 것입니다. 관련된 분야에서 자주 쓰이는 기술(JPA, Java Stream API 등)을 개발하여 유용하게 쓰일 수 있도록 할 것입니다.
 
 # About Me
 
