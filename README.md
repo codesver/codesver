@@ -19,8 +19,8 @@
 <a href="https://velog.io/@codesver"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> 
 <a href="mailto:codesver@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
-[![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&custom_title=Codesver's&nbsp;GitHub&nbsp;Status&bg_color=45,414182,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesver&exclude_repo=codesver.github.io&layout=compact&bg_color=45,414182,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&custom_title=Codesver's&nbsp;GitHub&nbsp;Status&bg_color=45,000000,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesver&exclude_repo=codesver.github.io&layout=compact&bg_color=45,000000,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codesver&theme=dark)
