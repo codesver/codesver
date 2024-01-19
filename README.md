@@ -1,14 +1,26 @@
-# 백엔드 웹 개발자 최재원입니다.
+# Web Developer Choi Jae Won
 
-저는 Spring Framework를 사용하는 백엔드 웹 개발자 최재원입니다.
+Spring & React 를 활용하는 웹 개발자 최재원입니다.
 
-데이터를 가공 및 처리하고 비즈니스 로직을 설계 및 구현하는 것이 재밌어서 백엔드 개발자가 되었습니다.
+웹 개발은 분야를 가리지 않고 사용되는 만큼 중요한 개발 분야입니다.
 
-개발자로서 2가지 목표를 가지고 있습니다.
+또한 생각을 디지털로 구현할 수 있는 창의적인 영역이기도 합니다.
 
-첫 번째 목표는 풀스택 개발자가 되는 것입니다. Front-End, Back-End, Mobile 분야에 대한 개발 지식을 쌓아서 전체 프로젝트를 볼 수 있는 능력을 키울 것입니다.
+다양한 도메인을 경험하고 Think to Digital 을 실현하기 위해서 웹 개발자가 되었습니다.
 
-두 번째 목표는 Default API를 개발하는 것입니다. 관련된 분야에서 자주 쓰이는 기술(JPA, Java Stream API 등)을 개발하여 유용하게 쓰일 수 있도록 할 것입니다.
+# Developer Objective
+
+**여러 기술을 경험하고 싶습니다.**
+
+Back-End, Front-End, Infra, Database 등 웹 개발 전반을 경험하고 깊이 있게 배우고 싶습니다.
+
+현재는 Spring, React, MySQL 등을 경험하고 있습니다.
+
+**배운 내용을 정리하고 싶습니다.**
+
+앞선 개발자들의 블로그와 강의, 공식 문서, GPT 를 통해 얻은 지식을 모아서 공유하는 공간을 만들고 싶습니다.
+
+현재는 Notion 을 통해서 정리하고 있습니다.
 
 # About Me
 
@@ -25,10 +37,11 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codesver&theme=dark)
 
-# Skills
+### Major
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,postman)](https://skillicons.dev)
 
-### Usable
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,mysql,git,github,idea)](https://skillicons.dev)
+### Minor
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,vscode,eclipse,hibernate)](https://skillicons.dev)
 
-### Learned
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,nodejs)](https://skillicons.dev)
+### Trial
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,c,cpp,py,aws,gcp)](https://skillicons.dev)
