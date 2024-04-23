@@ -36,12 +36,3 @@ Back-End, Front-End, Infra, Database 등 웹 개발 전반을 경험하고 깊�
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=codesver&theme=dark)
-
-### Major
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,github,idea,postman)](https://skillicons.dev)
-
-### Minor
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react,vscode,eclipse,hibernate)](https://skillicons.dev)
-
-### Trial
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,c,cpp,py,aws,gcp)](https://skillicons.dev)
