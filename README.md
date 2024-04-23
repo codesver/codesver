@@ -24,11 +24,8 @@ Back-End, Front-End, Infra, Database 등 웹 개발 전반을 경험하고 깊�
 
 # About Me
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodesver&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <a href="https://codesver.github.io/"><img src="https://img.shields.io/badge/Codesver-127CEA?style=for-the-badge&logo=ReadMe&logoColor=white"></a> 
 <a href="https://codesver.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> 
-<a href="https://velog.io/@codesver"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a> 
 <a href="mailto:codesver@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 [![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&custom_title=Codesver's&nbsp;GitHub&nbsp;Status&bg_color=45,000000,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
