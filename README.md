@@ -32,7 +32,7 @@
 
   <br/>
 
-  ![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&card_width=500)
+  ![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver)
   <br/>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
 
