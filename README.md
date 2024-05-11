@@ -1,35 +1,40 @@
-# Web Developer Choi Jae Won
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=venom&text=JaeWon%20Choi&fontColor=352f36&stroke=e5e5e5&animation=fadeIn&color=timeGradient&height=200)
 
-Spring & React 를 활용하는 웹 개발자 최재원입니다.
+  <div class="profile" align="center">
+    <a href="mailto:codesver@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=EA4335&color=352f36"/><a/>
+    <a href="https://codesver.notion.site"><img src="https://img.shields.io/badge/Notion-FFFFFF?&logo=notion&logoColor=FFFFFF&color=352f36"/><a/>
+    <a href="https://velog.io/@codesver"><img src="https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=20C997&color=352f36"/><a/>
+  </div>
 
-웹 개발은 분야를 가리지 않고 사용되는 만큼 중요한 개발 분야입니다.
+  <br/>
+  
+  <div class="stack" align="center">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=F7DF1E&color=352f36"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=3178C6&color=352f36"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=61DAFB&color=352f36"/>
+    <img src="https://img.shields.io/badge/NextJS-FFFFFF?&logo=next.js&logoColor=FFFFFF&color=352f36"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Java-F80000?&logo=openjdk&logoColor=F80000&color=352f36"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?&logo=springboot&logoColor=6DB33F&color=352f36"/>
+    <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?&logo=hibernate&logoColor=59666C&color=352f36"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=4479A1&color=352f36"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Git-F05032?&logo=git&logoColor=F05032&color=352f36"/>
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?&logo=github&logoColor=181717&color=352f36"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?&logo=gitlab&logoColor=FC6D26&color=352f36"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?&logo=visualstudiocode&logoColor=007ACC&color=352f36"/>
+    <img src="https://img.shields.io/badge/IntelliJ-cacaca?&logo=intellijidea&logoColor=cacaca&color=352f36"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=FF6C37&color=352f36"/>
+  </div>
 
-또한 생각을 디지털로 구현할 수 있는 창의적인 영역이기도 합니다.
+  <br/>
 
-다양한 도메인을 경험하고 Think to Digital 을 실현하기 위해서 웹 개발자가 되었습니다.
+  ![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&card_width=500)
+  <br/>
+  ![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codesver&layout=compact&card_width=500)
+  <br/>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
 
-# Developer Objective
-
-**여러 기술을 경험하고 싶습니다.**
-
-Back-End, Front-End, Infra, Database 등 웹 개발 전반을 경험하고 깊이 있게 배우고 싶습니다.
-
-현재는 Spring, React, MySQL 등을 경험하고 있습니다.
-
-**배운 내용을 공유하고 싶습니다.**
-
-앞선 개발자들의 블로그와 강의, 공식 문서, GPT 를 통해 얻은 지식을 모아서 공유하는 공간을 만들고 싶습니다.
-
-현재는 Notion 을 통해서 정리하고 있습니다.
-
-# About Me
-
-<a href="https://codesver.github.io/"><img src="https://img.shields.io/badge/Codesver-127CEA?style=for-the-badge&logo=ReadMe&logoColor=white"></a> 
-<a href="https://codesver.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a> 
-<a href="mailto:codesver@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
-[![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver&custom_title=Codesver's&nbsp;GitHub&nbsp;Status&bg_color=45,000000,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codesver&exclude_repo=codesver.github.io&layout=compact&bg_color=45,000000,127cea&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=codesver&theme=dark)
+</div>
