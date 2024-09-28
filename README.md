@@ -1,13 +1,13 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&text=JaeWon%20Choi&fontColor=352f36&stroke=e5e5e5&animation=fadeIn&color=timeGradient&height=200)
-
+  
   <div class="profile" align="center">
     <a href="mailto:codesver@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=EA4335&color=352f36"/><a/>
     <a href="https://codesver.notion.site"><img src="https://img.shields.io/badge/Notion-FFFFFF?&logo=notion&logoColor=FFFFFF&color=352f36"/><a/>
     <a href="https://velog.io/@codesver"><img src="https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=20C997&color=352f36"/><a/>
   </div>
-
+      
   <br/>
   
   <div class="stack" align="center">
@@ -29,11 +29,6 @@
     <img src="https://img.shields.io/badge/IntelliJ-cacaca?&logo=intellijidea&logoColor=cacaca&color=352f36"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=FF6C37&color=352f36"/>
   </div>
-
+  
   <br/>
-
-  ![Codesver's GitHub stats](https://github-readme-stats.vercel.app/api?username=codesver)
-  <br/>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codesver)](https://solved.ac/codesver/)
-
 </div>
